@@ -9,7 +9,7 @@ Webnet Official Mysql &amp; Php Web Server Panel v0.1
 
 ### Screenshots
 
-<img src="https://web-net.ml/webnetgithub/images/imageedit_7_4114612147.png"/>
+<img src="https://imgur.com/V3Yslie.png"/>
 
 ### Download
 
