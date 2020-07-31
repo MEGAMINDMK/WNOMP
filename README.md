@@ -13,7 +13,7 @@ Webnet Official Mysql &amp; Php Web Server Panel v0.1
 
 ### Download
 
-Download the Windows edition [here](https://github.com/Web-Net-Official/web-net-official.github.io/releases/latest).
+Download the Windows edition [here](https://github.com/MEGAMINDMK/WNOMP/releases/latest).
 
 # Team
 
