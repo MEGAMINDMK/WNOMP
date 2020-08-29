@@ -1,0 +1,10 @@
+F:\c++\Webnet Official Web Server v0.2\bin\Debug\Webnet Official Web Server v0.2.exe.config
+F:\c++\Webnet Official Web Server v0.2\bin\Debug\Webnet Official Web Server v0.2.exe
+F:\c++\Webnet Official Web Server v0.2\bin\Debug\Webnet Official Web Server v0.2.pdb
+F:\c++\Webnet Official Web Server v0.2\obj\Debug\Webnet Official Web Server v0.2.csprojAssemblyReference.cache
+F:\c++\Webnet Official Web Server v0.2\obj\Debug\Webnet_Official_Web_Server_v0._2.Form1.resources
+F:\c++\Webnet Official Web Server v0.2\obj\Debug\Webnet_Official_Web_Server_v0._2.Properties.Resources.resources
+F:\c++\Webnet Official Web Server v0.2\obj\Debug\Webnet Official Web Server v0.2.csproj.GenerateResource.cache
+F:\c++\Webnet Official Web Server v0.2\obj\Debug\Webnet Official Web Server v0.2.csproj.CoreCompileInputs.cache
+F:\c++\Webnet Official Web Server v0.2\obj\Debug\Webnet Official Web Server v0.2.exe
+F:\c++\Webnet Official Web Server v0.2\obj\Debug\Webnet Official Web Server v0.2.pdb
